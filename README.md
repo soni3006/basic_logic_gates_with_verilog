@@ -1,8 +1,10 @@
-# 🔰 Verilog for Beginners – Basic Digital Gates Simulation | Sly Fox Electronics
+
+# ![FPGA tumbnail (1)](https://github.com/user-attachments/assets/d10333e9-b0aa-48be-8cba-ccf93b681a89)
+🔰 Verilog for Beginners – Basic Digital Gates Simulation | Sly Fox Electronics
 
 Welcome to the **Verilog for Beginners** project! This repository is part of a practical introduction to digital logic design using **Verilog HDL** and **Xilinx Vivado**.
 
-📺 **[Watch the full tutorial on Sly Fox Electronics YouTube channel](https://www.youtube.com/channel/UC24fcTqgswaZkPQFimSFBrg)**  
+📺 **[Watch the full tutorial on Sly Fox Electronics YouTube channel](https://www.youtube.com/watch?v=avZnFp4ngpg)**  
 ⭐ Designed especially for beginners who are stepping into the world of **FPGA programming** and **digital electronics**.
 
 ---
