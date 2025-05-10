@@ -2,7 +2,7 @@
 
 Welcome to the **Verilog for Beginners** project! This repository is part of a practical introduction to digital logic design using **Verilog HDL** and **Xilinx Vivado**.
 
-📺 **[Watch the full tutorial on Sly Fox Electronics YouTube channel](https://youtube.com/slyfoxelectronics)**  
+📺 **[Watch the full tutorial on Sly Fox Electronics YouTube channel](https://www.youtube.com/channel/UC24fcTqgswaZkPQFimSFBrg)**  
 ⭐ Designed especially for beginners who are stepping into the world of **FPGA programming** and **digital electronics**.
 
 ---
