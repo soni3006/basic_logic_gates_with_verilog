@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Xilinx_Vivado/Verilog_Projects/Youtube/Digital_Gates/Digital_Gates/Digital_Gates.srcs/sources_1/new/Digital_Gates.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Digital_Gates
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Xilinx_Vivado/Verilog_Projects/Youtube/Digital_Gates/Digital_Gates/Digital_Gates.srcs/sim_1/new/TB_Digital_Gates.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TB_Digital_Gates
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Xilinx_Vivado/Verilog_Projects/Youtube/Digital_Gates/Digital_Gates/Digital_Gates.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

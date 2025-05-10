@@ -1,0 +1,7 @@
+Running: xsim.dir/TB_Digital_Gates_behav/xsimk.exe -simmode gui -wdb TB_Digital_Gates_behav.wdb -simrunnum 0 -socket 12258
+Design successfully loaded
+Design Loading Memory Usage: 8360 KB (Peak: 8360 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 9004 KB (Peak: 9004 KB)
+Simulation CPU Usage: 0 ms
